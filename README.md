@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thiagohsferreir
-- 👀 I’m interested in be a Front-End Developer
+- 👀 I’m interested in being a Front-End Developer
 - 🌱 I’m currently learning HTML, CSS, Bootstrap, JavaScript
 
 
