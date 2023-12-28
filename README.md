@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thiagohsferreir
-- 👀 I’m interested in being a Front-End Developer
-- 🌱 I’m currently learning HTML, CSS, Bootstrap, JavaScript
+- 👀 I’m interested in being a Full-Stack Dev.
+- 🌱 I’m currently learning Java, but i'm already know JavaScript, HTML, CSS.
 
 
 <!---
